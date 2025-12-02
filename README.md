@@ -57,6 +57,7 @@ RzX AI Adalah Asisten Cerdas Untuk Membantu Anda
 2. **Install** on Android 5.0+
 3. **Get API Key** from [Groq Console](https://console.groq.com)
 4. **Start Chatting** with your AI assistant!
+5. **Updated Info? Join Server [Discord] (https://discord.gg/eeHr3GSA2)
 
 ## 🛠️ For Developers
 
