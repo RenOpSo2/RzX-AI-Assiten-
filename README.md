@@ -58,14 +58,6 @@ RzX AI Adalah Asisten Cerdas Untuk Membantu Anda
 3. **Get API Key** from [Groq Console](https://console.groq.com)
 4. **Start Chatting** with your AI assistant!
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/main.png" width="30%" alt="Main Chat">
-  <img src="screenshots/typing.png" width="30%" alt="Typing Animation">
-  <img src="screenshots/ui.png" width="30%" alt="UI Design">
-</p>
-
 ## 🛠️ For Developers
 
 ### Built with AIDE
