@@ -1,4 +1,4 @@
-RzX AI Chatbot
+RzX AI Chatbot Asisten 👾
 
 A modern AI chatbot application with multiple features and modes.
 
@@ -6,7 +6,7 @@ Id: Download? Scroll Kebawah,
 Eng: Download? scroll down
 
 Community:
-Telegram Channel: t.me/RzXDev
+Telegram Channel: https://t.me/RzXSoc
 
 📦 Versions
 
@@ -38,9 +38,9 @@ Version 1.3.9 (Latest)
 
 🚀 Installation
 
-1. Download APK from Telegram
-2. Enable "Unknown Sources"
-3. Install and launch
+1. Download APK from release 
+2. Install And Enjoy 
+3. Join Channel Telegram For Support Admin
 
 ---
 
